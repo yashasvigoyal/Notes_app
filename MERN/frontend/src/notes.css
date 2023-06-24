@@ -1,0 +1,27 @@
+.notes{
+    margin-left: 60vw;
+    position: absolute;
+    top:10vh;
+}
+.allnotes{
+    font-size: 5vh;
+    border-bottom: 3px solid black;
+    background-color:white;
+}
+.logout{
+    background-color: #fc9797;
+    font-size: x-large;
+    text-decoration: none;
+    padding: 1vh;
+    color: black;
+    position:absolute;
+    right: 0;
+
+}
+.newnote{
+    background-color:#f2fec3;
+    width: 30vw;
+    height: 5vh;
+    font-size: 25px;
+
+}

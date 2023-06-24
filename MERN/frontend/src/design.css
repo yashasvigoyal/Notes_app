@@ -1,0 +1,83 @@
+nav{
+    
+    font-size:5vh;
+    background-color: rgba(222,81,81,255);
+}
+.left{
+    height: 80vh;
+    background-color: #fc9797;
+    margin: 40px;
+}
+.box1{
+    height: 10vh;
+    background-color: #fc9797;
+    margin: 20px;
+}
+.box2{
+    height:10vh;
+    background-color: #fc9797;
+    margin: 20px;
+}
+.welcome{
+    font-size: 10vh;
+    margin-top: 15vh;
+}
+.links{
+    font-size: 5vh;
+    margin-top:30vh;
+    margin-left:5vw;
+    background-color:
+    #d9d9d9;
+    padding: 20px;
+    text-decoration: none;
+}
+.links:link{
+    color: black;
+}   
+#username{
+    margin-top: 20vh;
+}
+form{
+    display: grid;
+    grid-template-columns: auto;
+}
+input{
+    width:30vw;
+    margin: 20px;
+    height: 7vh;
+    background-color: hsl(0, 0%, 85%);
+   
+}
+::placeholder{
+    font-size: large;
+    padding-left: 5px;
+}
+.signup{
+    width:200px;
+    height: 7vh;
+    margin-left: 10vw;
+    font-size: x-large;
+}
+.login{
+    width:200px;
+    height: 7vh;
+    margin-left: 10vw;
+    font-size: x-large;
+}
+.leftnote{
+    font-size: 5vh;
+    margin: 50px;
+    border-right: 3px solid black ;
+}
+.save{
+    background-color: #fc9797;
+    font-size: x-large;
+
+}
+.message{
+    margin-left: 5px;
+   
+}
+
+    
+
